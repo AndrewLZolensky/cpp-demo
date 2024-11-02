@@ -1,4 +1,4 @@
-# TO RECREATE
+# To Recreate
 
 1. Run Docker Desktop
 2. Clone Repo
